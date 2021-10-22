@@ -26,4 +26,3 @@ clientWithAuth.repos.delete({
 }).catch(e => {
    console.log(e);
 });
-
